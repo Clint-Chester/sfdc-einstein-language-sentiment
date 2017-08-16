@@ -23,14 +23,8 @@
         <name>CustomObject</name>
     </types>
     <types>
-        <members>AnalyseEmailSentiment</members>
-        <members>AnalyseLoggedCallSentiment</members>
+        <members>*</members>
         <name>Flow</name>
-    </types>
-    <types>
-        <members>AnalyseEmailSentiment</members>
-        <members>AnalyseLoggedCallSentiment</members>
-        <name>FlowDefinition</name>
     </types>
     <types>
         <members>SalesforceEinsteinAPI</members>
