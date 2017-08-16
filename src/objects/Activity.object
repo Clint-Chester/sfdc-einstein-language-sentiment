@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>SentimentNegative__c</fullName>
+        <externalId>false</externalId>
+        <label>Sentiment Negative</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>8</scale>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>SentimentNeutral__c</fullName>
+        <externalId>false</externalId>
+        <label>Sentiment Neutral</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>8</scale>
+        <type>Percent</type>
+    </fields>
+    <fields>
+        <fullName>SentimentPositive__c</fullName>
+        <externalId>false</externalId>
+        <label>Sentiment Positive</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>8</scale>
+        <type>Percent</type>
+    </fields>
+</CustomObject>
