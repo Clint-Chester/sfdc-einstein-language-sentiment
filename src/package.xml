@@ -27,6 +27,10 @@
         <name>Flow</name>
     </types>
     <types>
+        <members>EinsteinSetting__mdt-Einstein Setting Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
         <members>SalesforceEinsteinAPI</members>
         <name>RemoteSiteSetting</name>
     </types>
